@@ -19,6 +19,8 @@ int main(){
     cout << "nhap so 1 so nguyen";
     cin >> a;
     return 0;
+
+    
     int number;
     cout << "nhap 1 so: ";
     cin >> number;
